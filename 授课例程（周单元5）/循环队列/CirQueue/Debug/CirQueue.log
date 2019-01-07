@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/8/29 9:47:56。
+     1>项目“E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第5周\授课例程\循环队列\CirQueue\CirQueue.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\CirQueue.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第5周\授课例程\循环队列\Debug\CirQueue.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CirQueue.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第5周\授课例程\循环队列\Debug\CirQueue.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第5周\授课例程\循环队列\Debug\CirQueue.lib" /MACHINE:X86 Debug\CirQueue.obj
+         Debug\CirQueueMain.obj
+         LINK : 没有找到 E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第5周\授课例程\循环队列\Debug\CirQueue.exe 或上一个增量链接没有生成它；正在执行完全链接
+         CirQueue.vcxproj -> E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第5周\授课例程\循环队列\Debug\CirQueue.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第5周\授课例程\循环队列\Debug\CirQueue.exe;#1" /manifest Debug\CirQueue.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CirQueue.unsuccessfulbuild”。
+         正在对“Debug\CirQueue.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第5周\授课例程\循环队列\CirQueue\CirQueue.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.71

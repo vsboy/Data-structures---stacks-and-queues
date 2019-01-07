@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/8/28 15:18:45。
+     1>项目“E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\顺序栈定义与操作\seqStack\seqStack.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\seqStack.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SeqStack.cpp SeqStackMain.cpp
+         SeqStackMain.cpp
+         SeqStack.cpp
+         正在生成代码...
+     1>e:\e盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\顺序栈定义与操作\seqstack\seqstack.cpp(38): warning C4715: “SeqStack<int>::GetTop”: 不是所有的控件路径都返回值
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\顺序栈定义与操作\Debug\seqStack.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\seqStack.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\顺序栈定义与操作\Debug\seqStack.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\顺序栈定义与操作\Debug\seqStack.lib" /MACHINE:X86 Debug\SeqStack.obj
+         Debug\SeqStackMain.obj
+         LINK : 没有找到 E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\顺序栈定义与操作\Debug\seqStack.exe 或上一个增量链接没有生成它；正在执行完全链接
+         seqStack.vcxproj -> E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\顺序栈定义与操作\Debug\seqStack.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\顺序栈定义与操作\Debug\seqStack.exe;#1" /manifest Debug\seqStack.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\seqStack.unsuccessfulbuild”。
+         正在对“Debug\seqStack.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\顺序栈定义与操作\seqStack\seqStack.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.74

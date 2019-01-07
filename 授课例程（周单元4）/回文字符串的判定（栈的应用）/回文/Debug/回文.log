@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/8/29 15:37:49。
+     1>项目“E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\回文数的判定（栈的应用）\回文\回文.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\回文.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         回文.vcxproj -> E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\回文数的判定（栈的应用）\Debug\回文.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\回文.unsuccessfulbuild”。
+         正在对“Debug\回文.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\E盘--授课\课程讲授\普高教育\18-19第一学期\学习单元3\第4周\授课例程\回文数的判定（栈的应用）\回文\回文.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.20
